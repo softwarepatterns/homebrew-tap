@@ -1,4 +1,4 @@
-class Forgejo < Formula
+class ForgejoCli < Formula
   desc "Agent-first client for the Forgejo HTTP API"
   homepage "https://forgejo.softwarepatterns.com"
   version "0.2.0"
